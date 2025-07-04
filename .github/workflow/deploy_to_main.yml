@@ -34,7 +34,7 @@ jobs:
           TOKEN = 'dapia8c3f429258bbc06a1d9abc76315579d'
 
           # Define the repo_id you want to update
-          repo_id = 1177718681997607  # Replace with your repo ID
+          repo_id = 1177718681997612  # Replace with your repo ID
 
           # Define the new branch or tag you want to update the repo to
           new_branch_or_tag = 'main'
